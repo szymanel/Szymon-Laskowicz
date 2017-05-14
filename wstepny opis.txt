@@ -1,0 +1,9 @@
+Projekt C#
+Program pozwalaj¹cy na uk³adanie bud¿etu domowego. U¿ytkownik wprowadza dane o swoich przychodach na
+dany miesi¹c (tj. swojej pensji; dofinansowaniach; stypendiach; dochodach z firmy; przys³uguj¹cych œwiadczeniach - renta, 500+, etc.), 
+a tak¿e wydatkach na miesi¹c (rata kredytowa; wydatki na zaplanowan¹ wczeœniej podró¿; remonty; rachunki za pr¹d, wodê 
+i gaz - te wydatki jak wiadomo s¹ zmienne, lecz da siê je przewidzieæ ze spor¹ dok³adnoœci¹ analizuj¹c poprzednie 
+miesi¹ce; paliwo do samochodu, koszt ubezpieczenia OC i AC).
+Program pozwoli nam przewidzieæ nadwy¿kê lub deficyt jaki posiada nasz portfel w danym miesi¹cu, dziêki czemu uzyskamy 
+lepszy pogl¹d na nasze finanse i bêdziemy mogli lepiej zarz¹dzaæ naszymi oszczêdnoœciami. Pozwoli równie¿ na planowanie
+bud¿etu w sposób, by osi¹gn¹æ konkretne cele (np. by zebraæ pieni¹dze na nowy samochód lub wymarzon¹ podró¿).
